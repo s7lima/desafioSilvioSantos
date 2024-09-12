@@ -12,7 +12,7 @@ A estrutura é composta por um arquivo HTML e um arquivo CSS para estilização.
 
 O arquivo HTML contém a seguinte estrutura: *** Cabeçalho**: Titulo de uma página e uma breve descição da banda. *** Imagem de Destaque*** : Uma imagem representativa da band com a legenda. Biografia: Informações sobre a formação e os primeiros anos da banda. Citações: Blocos que destacão as citações de Dexter Holland. Curiosidades: Lista de curiosidades interessantes sobre a banda.
 
-### 2. CSS <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/sprites/regular.svg" alt="CSS" width="26" height="26">
+### 2. CSS <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo_and_wordmark.svg" alt="CSS" width="26" height="26">
 
 O CSS é ultilizado para estilizar a página, garantindo que ela seja visualmente atraente e facíl de ler. Algumas classes importantes incluem:
 
