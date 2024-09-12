@@ -9,8 +9,7 @@ A estrutura é composta por um arquivo HTML e um arquivo CSS para estilização.
 ## Tecnologias:
 
 ### 1. HTML
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="24" height="24">
-
+<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/sprites/regular.svg" alt="HTML" width="24" height="24">
 
 O arquivo HTML contém a seguinte estrutura: *** Cabeçalho**: Titulo de uma página e uma breve descição da banda. *** Imagem de Destaque*** : Uma imagem representativa da band com a legenda. Biografia: Informações sobre a formação e os primeiros anos da banda. Citações: Blocos que destacão as citações de Dexter Holland. Curiosidades: Lista de curiosidades interessantes sobre a banda.
 
