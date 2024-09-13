@@ -35,11 +35,11 @@ Você pode modificar o arquivo style.css para personalizar a aparência da pági
 
 ## Desenvolvedores:
 
-![Bruno Lima](https://github.com/s7lima)
+- [Bruno Lima](https://github.com/s7lima)
 
-![Eric Rodriguês](https://github.com/itzEric13)
+- [Eric Rodriguês](https://github.com/itzEric13)
 
-![Thiago Cézar](https://github.com/thiagocezar-senac)
+- [Thiago Cézar](https://github.com/thiagocezar-senac)
 
 
 
