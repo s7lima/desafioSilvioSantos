@@ -15,6 +15,10 @@ html{
 .header{
     text-align: center;
 }
+.main-paragraph{
+    text-align: center;
+    
+}
 
 .feature-image{
     text-align: center;
@@ -25,4 +29,33 @@ html{
 .feature-image figcaption{
     padding: 15px;
     font-style: italic;
+}
+
+.curiosities-container{
+    text-align: center;
+    padding: 50px 50px;
+    border-top: 2px solid ;
+    border-bottom: 2px solid;
+}
+.curiosities-container img { 
+    text-align: center;
+    height: 500px;
+    width: auto;
+    border-top: 2px solid ;
+    border-bottom: 2px solid;
+
+}
+.curiosities-container h2, h3, p{
+    text-align: left;
+}
+.curiosities-container figcaption {
+    padding: 15px;
+}
+.feitos-silvio{
+    border-top: 2px solid ;
+    border-bottom: 2px solid;
+
+}
+.ultima-citacao p{
+    text-align: center;
 }
