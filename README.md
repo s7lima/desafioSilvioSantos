@@ -1,5 +1,5 @@
 # Projeto: Silvio Santos
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dwOWlvMHQ3cmZnaGYxY3l2bmdxemh0ZnFpeHJnd282bDUweGl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWhmennzgT67aIPQA/giphy.gif" alt="HTML" width="40" height="40">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2dwOWlvMHQ3cmZnaGYxY3l2bmdxemh0ZnFpeHJnd282bDUweGl3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4GWhmennzgT67aIPQA/giphy.gif" alt="HTML" width="150" height="150">
 
 Esta é uma página dedicada ao maior comunicador da televisão brasileira de todos os tempos, Senor Abravanel, mais conhecido como Silvio Santos, que nasceu no dia 12 de Dezembro de 1930, no Rio de Janeiro, de várias empresas fundadas, o SBT (Sistema Brasileiro de Televisão) foi a mais reconhecida, onde trouxe e ainda trás muita alegria para a população brasileira. Faleceu em 17 de Agosto de 2024 em São Paulo.
 
