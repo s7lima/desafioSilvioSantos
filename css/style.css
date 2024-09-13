@@ -1,0 +1,28 @@
+html{
+    background-color: rgb(138, 191, 238, 0.3);
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+.container{
+    background-color: #ecf1f1;
+    max-width: 1100px;
+    padding: 50px 50px;
+    margin: 50px auto;
+    position: relative;
+    border: 2px solid;
+}
+
+.header{
+    text-align: center;
+}
+
+.feature-image{
+    text-align: center;
+    border-top: 2px dotted ;
+    border-bottom: 2px solid;
+}
+
+.feature-image figcaption{
+    padding: 15px;
+    font-style: italic;
+}
