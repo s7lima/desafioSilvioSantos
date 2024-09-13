@@ -33,3 +33,13 @@ Abra o arquivo index.html em seu navegador para visualização da página.
 
 Você pode modificar o arquivo style.css para personalizar a aparência da página conforme preferir.
 
+## Desenvolvedores:
+
+![Bruno Lima](https://github.com/s7lima)
+
+![Eric Rodriguês](https://github.com/itzEric13)
+
+![Thiago Cézar](https://github.com/thiagocezar-senac)
+
+
+
