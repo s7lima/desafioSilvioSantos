@@ -50,6 +50,7 @@ html{
 }
 .curiosities-container figcaption {
     padding: 15px;
+    font-style: italic;
 }
 .feitos-silvio{
     border-top: 2px solid ;
